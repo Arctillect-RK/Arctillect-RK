@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Ruslan Kovalchuk
+**Full-Stack Developer** · B2B automation · CRM · payments · scraping  
+Taiwan · Remote · English B1
 
-<!--
-**Arctillect-RK/Arctillect-RK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Stack:** PHP · Node.js · Python · Vue · SQL · YooKassa · Telegram API
 
-Here are some ideas to get you started:
+**Contact:** [Telegram](https://t.me/Arctillect) · kislodrishezhuk@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Live products:**
+- [vsesteklo.ru](https://vsesteklo.ru/) — glass B2B / CRM & configurator
+- [directbeza.ru](https://directbeza.ru/) — ad campaigns SaaS
+- [arborika.ru](https://arborika.ru/) — workshop e-commerce
+- [bristol-test.ru](https://bristol-test.ru/) · [magnit-test.ru](https://www.magnit-test.ru/)
+
+**Focus:** end-to-end systems — site → calculator → CRM → payments → bots/scrapers
