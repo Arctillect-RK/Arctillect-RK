@@ -4,7 +4,7 @@ Taiwan · Remote · English B1
 
 **Stack:** PHP · Node.js · Python · Vue · SQL · YooKassa · Telegram API
 
-**Contact:** [Telegram](https://t.me/Arctillect) · kislodrishezhuk@gmail.com
+**Contact:** [Telegram](https://t.me/Arctillect) · arctillect@outlook.com
 
 **Live products:**
 - [vsesteklo.ru](https://vsesteklo.ru/) — glass B2B / CRM & configurator
